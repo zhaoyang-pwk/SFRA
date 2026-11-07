@@ -1,0 +1,24 @@
+﻿# Byte-compiled
+__pycache__/
+*.py[cod]
+*.so
+
+# Data and checkpoints
+data/
+datasets/
+checkpoints/
+*.pth
+*.pt
+*.model
+
+# Logs and outputs
+logs/
+runs/
+results/
+*.log
+*.csv
+
+# Editors
+.vscode/
+.idea/
+.DS_Store

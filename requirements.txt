@@ -1,0 +1,6 @@
+﻿torch>=1.10
+torchvision>=0.11
+timm>=0.5
+lpips>=0.1.4
+numpy>=1.21
+Pillow>=8.0
